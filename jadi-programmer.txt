@@ -3,5 +3,4 @@ belajar bahasa inggris
 belajar python
 belajar javascript
 
-belajar design grafis
 belajar backend
